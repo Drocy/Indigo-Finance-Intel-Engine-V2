@@ -17,7 +17,7 @@ import streamlit as st
 # ============================================================
 
 APP_TITLE = "Indigo Market Intelligence"
-ENGINE_FILE = "indigo_v2_engine.pkl"
+ENGINE_FILE = "indigo_v2_engine_streamlit_complete.pkl"
 
 st.set_page_config(
     page_title=APP_TITLE,
